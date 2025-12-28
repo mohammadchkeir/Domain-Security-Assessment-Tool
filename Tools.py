@@ -23,10 +23,10 @@ SHODAN_API_KEY = os.getenv('SHODAN_API_KEY')
 MXTOOLBOX_API_KEY = os.getenv('MXTOOLBOX_API_KEY')
 
 # Hunter.io API key
-HUNTER_API_KEY = "715ffdf2750b25bb7050da6377a90c7a1021c252"
+HUNTER_API_KEY = ""
 
 # DeHashed API key & account email
-DEHASHED_API_KEY = "23Wu/JaT+BF0vrDS/ypqMp8JwJ8P6rMq10UgpLMLPXBgslAXwmkImgs="
+DEHASHED_API_KEY = ""
 DEHASHED_EMAIL = "your_dehashed_account_email_here"  # Replace with your DeHashed login email
 
 # --------------------
